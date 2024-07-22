@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://www.bing.com/th/id/OGC.1fe13c8a72a8be3d59bc9a670fb1a639?pid=1.7&rurl=https%3a%2f%2f64.media.tumblr.com%2f86c13dec7f8bdc6a0fdea4cfb1255a63%2ftumblr_oxbl59aOqp1rv33k2o9_1280.gif&ehk=KyEbdwUhNQ9OQm0h2AiSwPqIu9I5wOeDnuTvHXlx46o%3d" />
 
 ###
